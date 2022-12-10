@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="12.297865">
+    <testcase classname="Shopping website test" name="Validate HomePage Test" time="12.297865">
+        <system-out><![CDATA[Given user opens browser....................................................passed
+Then verify the loginpage title.............................................passed
+Then user enters username and password......................................passed
+Then verify cart button is displayed........................................passed
+Then verify option button is displayed......................................passed
+Then Add Sauce Lab Bike Light to cart.......................................passed
+Then click on cart icon.....................................................passed
+Then click on checkout......................................................passed
+Then enter shipping info....................................................passed
+Then click on finish........................................................passed
+Then verify Thank you for oder message......................................passed
+Then close the browser......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
